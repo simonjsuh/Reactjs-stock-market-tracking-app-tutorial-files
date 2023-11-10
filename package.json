@@ -1,33 +1,11 @@
 {
-  "name": "practice4",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "plotly.js": "^1.48.3",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-plotly.js": "^2.3.0",
-    "react-scripts": "3.0.1"
-  },
+  "name": "stock-market",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  }
+  "author": "",
+  "license": "ISC"
 }
